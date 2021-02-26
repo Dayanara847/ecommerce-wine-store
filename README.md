@@ -1,4 +1,4 @@
-Proyecto en grupo para SoyHenry
+## `Proyecto en grupo para SoyHenry`
 
 
 Para levantar el proyecto, hacer npm install y luego npm start tanto en la carpeta "api" como en la carpeta "client".
